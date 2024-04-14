@@ -6,9 +6,9 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/ee-satellites/blob/main/LICENSE)
 ![maintained](https://img.shields.io/badge/maintained%3F-YES-green.svg)
-![stars](https://img.shields.io/github/stars/Amatofrancesco99/ee-satellites.svg)
-![forks](https://img.shields.io/github/forks/Amatofrancesco99/ee-satellites.svg)
-![watchers](https://img.shields.io/github/watchers/Amatofrancesco99/ee-satellites.svg)
+![stars](https://img.shields.io/github/stars/Amatofrancesco99/ee-satellites)
+![forks](https://img.shields.io/github/forks/Amatofrancesco99/ee-satellites)
+![watchers](https://img.shields.io/github/watchers/Amatofrancesco99/ee-satellites)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Amatofrancesco99/ee-satellites)  <br>
 ![GitHub contributors](https://img.shields.io/github/contributors/Amatofrancesco99/ee-satellites)
 ![GitHub issues](https://img.shields.io/github/issues/Amatofrancesco99/ee-satellites)
