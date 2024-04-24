@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.ibb.co/bPMchfz/logo.png" alt="logo" border="0"><br>
+<img src="https://github.com/Amatofrancesco99/ee-satellites/blob/main/logo.png" alt="logo" border="0"><br>
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/Amatofrancesco99/ee-satellites/blob/main/LICENSE)
 ![maintained](https://img.shields.io/badge/maintained%3F-YES-green.svg)
@@ -105,3 +105,4 @@ Distributed under the MIT License.
 ## References
 
 [[**1**]](https://dev.to/amatofrancesco99/exciting-news-for-data-scientists-and-remote-sensing-enthusiasts-5g2g): Amato. F, et al. "*Revolutionize your Satellite Data Acquisition with ee-satellites: A Leap Forward in Remote Sensing*", DEV Community (Aug 2023). 
+[[**2**]](https://github.com/Amatofrancesco99/ee-satellites/blob/main/example/notebook.ipynb): A practical example, through a Jupyter Notebook, of the library utilization.
