@@ -34,7 +34,7 @@ $ pip install ee-satellites
 ## **Functions** 
 Expand the function you wish to grasp more details about.
     <details> 
-        <summary><b>`get_features()` <sup><a href="#references">[2]</a></sup> </b></summary>
+        <summary><b>`get_features()` </b><sup><a href="#references">[2]</a></sup></summary>
 
 It allows to get from an [input pandas DataFrame](#input-dataframe) composed of fields information, [an output DataFrame](#output-dataframe) that contains for each time a [selected satellite](#how-to-execute-it) (sentinel-1, sentinel-2 or landsat-8) passed over the specified fields, within a given time period, all the mean values of some of the most used indexes (optical, radar or thermal).
 
