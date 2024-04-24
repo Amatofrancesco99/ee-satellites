@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<!-- For PyPI --> 
+<!-- <img src="https://i.ibb.co/bPMchfz/logo.png" alt="logo" border="0"><br> -->
 <img src="https://github.com/Amatofrancesco99/ee-satellites/blob/main/logo.png" alt="logo" border="0"><br>
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/Amatofrancesco99/ee-satellites/blob/main/LICENSE)

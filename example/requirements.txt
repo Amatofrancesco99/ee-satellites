@@ -1,5 +1,5 @@
 earthengine-api==0.1.345
-ee-satellites==0.0.15
+ee-satellites==1.0.0
 ipyfilechooser==0.6.0
 ipywidgets==7.6.5
 pandas==1.3.3
